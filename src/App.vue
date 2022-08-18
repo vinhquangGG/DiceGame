@@ -1,7 +1,6 @@
 <template>
 
 	<div id="app">
-		abccccc
 		<div class="wrapper clearfix">
             <player v-bind:playerScore="playerScore"
 					v-bind:currentScore="currentScore"
